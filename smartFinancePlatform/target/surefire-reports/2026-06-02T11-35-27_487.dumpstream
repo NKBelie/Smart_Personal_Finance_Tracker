@@ -1,5 +1,0 @@
-# Created at 2026-06-02T11:35:30.530
-Boot Manifest-JAR contains absolute paths in classpath 'D:\AUCA\Software Engineering\SmartFinancePlatform\smartFinancePlatform\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
